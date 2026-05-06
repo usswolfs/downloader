@@ -1,0 +1,4 @@
+css/style.css
+favicon.ico
+img/icon_100.png
+img/logo_small2.svg
