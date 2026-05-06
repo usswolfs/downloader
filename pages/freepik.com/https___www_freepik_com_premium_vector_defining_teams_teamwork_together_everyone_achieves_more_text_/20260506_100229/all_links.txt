@@ -1,0 +1,7 @@
+https://media.magnific.com/common/magnific-bg-error-extended.webp
+https://media.magnific.com/magnific-favicons/apple-touch-icon.png?w=180&v=2
+https://media.magnific.com/magnific-favicons/favicon-96x96.png?w=96&v=2
+https://media.magnific.com/magnific-favicons/favicon.ico?v=2
+https://media.magnific.com/magnific-favicons/favicon.svg?v=2
+https://www.magnific.com
+mailto:support@magnific.com
